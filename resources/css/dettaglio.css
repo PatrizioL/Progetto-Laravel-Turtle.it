@@ -1,0 +1,13 @@
+.swiper
+{
+    height: 300px;
+    width: 300px;
+    margin: 30px;
+}
+.card-dettaglio{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 15px;
+  padding: 70px;
+}
